@@ -34,6 +34,13 @@ git add .
 git commit -m "Describe your change"
 ```
 
+### Stage and commit changes
+
+```bash
+git commit -am "Describe your change"
+```
+The -a flag tells Git to automatically stage all modified tracked files before committing
+
 ### Push to GitHub
 
 ```bash
