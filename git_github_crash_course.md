@@ -134,7 +134,12 @@ results/
    git remote add origin https://github.com/yourusername/yourrepo.git
    ```
 
-3. Push to GitHub:
+3. Name main branch as "main":
+
+   ```bash
+   git branch -m main
+   ```
+4. Push to GitHub:
 
    ```bash
    git push -u origin main
