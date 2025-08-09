@@ -41,6 +41,12 @@ git commit -am "Describe your change"
 ```
 The -a flag tells Git to automatically stage all modified tracked files before committing
 
+### List committed changes
+
+```bash
+git ls-files
+```
+
 ### Push to GitHub
 
 ```bash
